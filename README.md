@@ -1,4 +1,4 @@
-#Image Fusion via Sparse Regularization with Non-Convex Penalties
+# Image Fusion via Sparse Regularization with Non-Convex Penalties
 
 This source code package includes the MATLAB source codes for the proposed image fusion and joint problem algorithms.
 Paper: https://arxiv.org/pdf/1905.09645.pdf
