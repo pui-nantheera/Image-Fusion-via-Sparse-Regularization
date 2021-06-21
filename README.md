@@ -15,4 +15,4 @@ FSGMC: Joint image fusion and super-resolution with GMC regularization;
 
 FDrealGMC: Joint image fusion and deconvolution with GMC regularization on the real OCT and fundus image data sets (PSF estimation);
 
-Datasets: <a href="https://uob-my.sharepoint.com/:f:/g/personal/eexna_bristol_ac_uk/EgTJ52Omgs5NhgImtZ7axKgBkRa34VvYQKc8B4WSgPqUGg?e=ELcW3b"> HERE <\a>
+Datasets: <a href="https://uob-my.sharepoint.com/:f:/g/personal/eexna_bristol_ac_uk/EgTJ52Omgs5NhgImtZ7axKgBkRa34VvYQKc8B4WSgPqUGg?e=ELcW3b">HERE</a>
